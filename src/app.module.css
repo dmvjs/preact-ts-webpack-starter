@@ -1,0 +1,9 @@
+.applicationClass {
+    background-color: red;
+    height: 3rem;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    font-size: 3rem;
+    line-height: 3rem;
+}
